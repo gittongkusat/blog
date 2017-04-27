@@ -2,7 +2,7 @@
 lock '3.8.0'
 
 set :application, 'blog'
-set :repo_url, 'git@example.com:gittongkusat/blog.git'
+set :repo_url, 'git@github.com:gittongkusat/blog.git'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
